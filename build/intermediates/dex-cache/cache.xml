@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\pre-dexed\debug\classes-77a9c2b9a42d21bb195d3c3ae8809e6fcbe7821d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\pre-dexed\debug\classes-f9f6b78012e69146f28bf04f5b8ddbbff7a9b0e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-e50997a4c438c60d9df69e77b5c5a6f00abc61b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\pre-dexed\debug\classes-ec320082dac98e8fb17ba0dcd7e792d262883de1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\pre-dexed\debug\classes-b0ed496f90d1a9d0ad757d2caf643636c3ec870b.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Franci Suni\Documents\Android\FranBlocdeNotas\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-24c46cbde714be0842274322039416f341dd73a0.jar" />
+    </item>
+
+</items>
